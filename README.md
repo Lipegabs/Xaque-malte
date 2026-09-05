@@ -80,7 +80,7 @@ Algumas funcionalidades que podem ser adicionadas futuramente:
 
 Projeto desenvolvido por:
 
-**Lipe** — Design e Front-end
+**Filipe Gabriel** — Design e Front-end
 
 **Bruno Falcão** — Idealização do projeto
 
